@@ -1,0 +1,52 @@
+#sect1 {
+    height: 204px; 
+    background-color: rgb(222, 220, 220); 
+    margin-top: 145px;
+    text-align:center;
+}
+
+#sect2 {
+    height: 186px; 
+    background-color: rgb(222, 220, 220);
+    text-align:center;
+}
+
+#sect3 {
+    height: 123px; 
+    background-color: rgb(222, 220, 220); 
+    margin-bottom: 19px;
+    text-align:center;
+    
+}
+
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background-color:black;
+    text-align: center;
+    color:white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.nav {
+    background-color:black;
+    color:white;
+    position: sticky;
+    margin-bottom: 8px;
+}
+
+.main{
+    margin: 7px;
+    padding: 15px;
+}
+
+.foot{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
